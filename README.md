@@ -206,7 +206,7 @@ layout: "404"
 description: "Oops～，我崩溃了！找不到你想要的页面 :("
 ---
 ```
-![Image text](https://fingerlei.github.io/medias/images/MyBlog2.png)
+![Image text](https://fingerlei.github.io/medias/images/Myblog2.png)
 ### 菜单导航配置
 
 #### 配置基本菜单导航的名称、路径url和图标icon.
