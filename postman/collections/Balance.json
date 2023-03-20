@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "db5dd7c7-d080-4306-bcf1-1d0822011d35",
-		"name": "test",
+		"name": "Balance",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_uid": "26426257-db5dd7c7-d080-4306-bcf1-1d0822011d35"
 	},
