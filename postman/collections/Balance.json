@@ -47,7 +47,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "",
+					"raw": "{\r\n    \"batchId\":\"{{batchId}}\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -55,7 +55,7 @@
 					}
 				},
 				"url": {
-					"raw": "https://api.openai.com/dashboard/billing/credit_grants",
+					"raw": "https://api.openai.com/dashboard/",
 					"protocol": "https",
 					"host": [
 						"api",
@@ -64,8 +64,7 @@
 					],
 					"path": [
 						"dashboard",
-						"billing",
-						"credit_grants"
+						""
 					]
 				}
 			},
