@@ -38,7 +38,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "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",
+							"value": "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",
 							"type": "string"
 						}
 					]
@@ -71,7 +71,7 @@
 			},
 			"response": [
 				{
-					"id": "34fdf2d8-f866-4310-95a5-a2dabfc21931",
+					"id": "4e64567a-a4dc-4f07-950e-dc662803699c",
 					"name": "credit_grants",
 					"originalRequest": {
 						"method": "GET",
@@ -106,7 +106,7 @@
 					"header": [
 						{
 							"key": "Date",
-							"value": "Mon, 20 Mar 2023 05:25:41 GMT"
+							"value": "Mon, 20 Mar 2023 05:50:21 GMT"
 						},
 						{
 							"key": "Content-Type",
@@ -126,15 +126,15 @@
 						},
 						{
 							"key": "OpenAI-Organization",
-							"value": "user-alw0wt1rehbeqh2otsts9hg6"
+							"value": "user-5eynpxbsnykn9ivzggknvhk1"
 						},
 						{
 							"key": "X-Request-ID",
-							"value": "74faeb752d27628f2c8424687a434050"
+							"value": "9e5337197b0719205e36c7028b032076"
 						},
 						{
 							"key": "OpenAI-Processing-Ms",
-							"value": "299"
+							"value": "346"
 						},
 						{
 							"key": "Access-Control-Allow-Origin",
@@ -146,7 +146,7 @@
 						}
 					],
 					"cookie": [],
-					"body": "{\n    \"object\": \"credit_summary\",\n    \"total_granted\": 18,\n    \"total_used\": 0.184054,\n    \"total_available\": 17.815946,\n    \"grants\": {\n        \"object\": \"list\",\n        \"data\": [\n            {\n                \"object\": \"credit_grant\",\n                \"id\": \"078254a0-57a5-41f1-b91b-418f1f373e53\",\n                \"grant_amount\": 18,\n                \"used_amount\": 0.184054,\n                \"effective_at\": 1671235200,\n                \"expires_at\": 1680307200\n            }\n        ]\n    }\n}"
+					"body": "{\n    \"object\": \"credit_summary\",\n    \"total_granted\": 18,\n    \"total_used\": 0.773372,\n    \"total_available\": 17.226628,\n    \"grants\": {\n        \"object\": \"list\",\n        \"data\": [\n            {\n                \"object\": \"credit_grant\",\n                \"id\": \"b15f43e8-1d5c-4499-b077-3b0860010a34\",\n                \"grant_amount\": 18,\n                \"used_amount\": 0.773372,\n                \"effective_at\": 1670889600,\n                \"expires_at\": 1680307200\n            }\n        ]\n    }\n}"
 				}
 			]
 		}
